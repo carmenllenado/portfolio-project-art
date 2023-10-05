@@ -1,0 +1,15 @@
+/*font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Rubik Mono One', sans-serif;*/
+
+h1 {
+    color: black;
+    font-family: 'Rubik Mono One', sans-serif
+    
+}
+
+p {
+    color: black;
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
