@@ -119,6 +119,11 @@ line-height: 80px;
     font-size: 14px;
 }
 
+.contact-bg {
+    background: var(--secondary-color);
+    border-radius: 8px;
+}
+
 @media (max-width: 960px) {
     h1  {
         font-size: 44px;
